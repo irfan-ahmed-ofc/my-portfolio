@@ -89,7 +89,8 @@ body { background: var(--dark); color: var(--text-main); overflow-x: hidden; }
 .linkedin { background: #0077b5; }
 .facebook { background: #1877f2; }
 .instagram { background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); }
-.x-twitter { background: #000; border: 1px solid #444; }
+.x-twitter { background: #000000; }
+.x-twitter i { color: #ffffff ! important; }
 
 .social-btn:hover { transform: scale(1.1) rotate(-2deg); box-shadow: 0 15px 15px rgba(0,0,0,0.3); }
 
